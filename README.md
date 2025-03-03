@@ -1,6 +1,6 @@
 # Результаты оптимизации:
 До:
-![image](https://github.com/user-attachments/assets/fd28a314-f156-4d78-9efc-0c8bc9a0a8c0)
+![image](https://github.com/user-attachments/assets/657f1737-d147-49da-8347-066602e16459)
 После:
 ![image](https://github.com/user-attachments/assets/48e0feff-1757-4db4-8db4-339cf6ff593d)
 
