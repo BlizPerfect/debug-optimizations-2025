@@ -1,3 +1,9 @@
+# Результаты оптимизации:
+До:
+![image](https://github.com/user-attachments/assets/657f1737-d147-49da-8347-066602e16459)
+После:
+![image](https://github.com/user-attachments/assets/48e0feff-1757-4db4-8db4-339cf6ff593d)
+
 # Подготовка
 Обновить или установить .NET 7
 * [Рантайм](https://dotnet.microsoft.com/ru-ru/download/dotnet/thank-you/runtime-aspnetcore-7.0.20-windows-x64-installer)
